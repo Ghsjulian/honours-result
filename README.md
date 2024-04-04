@@ -15,6 +15,22 @@
 
 
 ```bash
+pkg install python3 -y
+pkg install python2 -y
+pkg install figlet
+pkg install git
+pkg install ruby -y
+gem install lolcat
+pip install bs4
+pip install requests
+pip install PIL
+```
+
+
+---
+
+
+```bash
 git clone https://github.com/Ghsjulian/honours-result.git
 cd honours-result
 python __run__.py
