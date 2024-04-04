@@ -15,7 +15,7 @@
 
 
 ```bash
-git clone 
+git clone https://github.com/Ghsjulian/honours-result.git
 cd honours-result
 python __run__.py
 ```
